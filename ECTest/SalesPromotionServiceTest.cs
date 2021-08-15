@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace ECTest
 {
-    public class Tests
+    public class SalesPromotionServiceTest
     {
         [SetUp]
         public void Setup()
